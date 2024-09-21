@@ -1,3 +1,12 @@
+# Context for this project (added september 2024)
+
+This project was completed by Sander Garland Slinning, Benjamin Christoffer Finsen Fogale and Snorre Sæther. It was completed as part of the course [IT2810 - Web Development](https://www.ntnu.edu/studies/courses/IT2810#tab=omEmnet) at NTNU, in the Autumn of 2023. The course consists of two parts, project 1 and project 2. Project 1 is purly a frontend project, while project 2 is a fullstack GraphQL project.
+
+
+The course focuses on learning important consepts of webdevelopment. This project has a focus on APIs, testing and basic accessibility. We also worked with tools for improving code-quality and code-formation. For in-depth information see the docs bellow.
+
+If there are references to the project being available from some server, it probably is not available anymore. I belive all servers are wiped after the course has completed every year.
+
 # Functional documentation
 
 Our application is a randomized Pokedex! It generates 10 random Pokemon and lets you favorite and filter them. You favorites are stored forever in the browser and the filter and generated pokemon persists when the page reloads. Clicking on 'details', presents you with a single resource (Pokemon), with additional information such as height and weight. The page has a responsive design that works with both laptops and mobile devices.
